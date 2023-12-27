@@ -5,11 +5,12 @@ our UI and have a working version of the game. After receiving the Milestone 4 f
 for better and cleaner organization. In addition, we fixed some issues that did not adhere to Clean Architecture 
 and SOLID principles, and we added tests to our test folder, showing an increase in test coverage. 
 
-
+<img width="870" alt="Screenshot 2023-12-26 at 10 56 56 AM" src="https://github.com/Tahasp/Lost/assets/113081946/bd454a4f-56d3-4372-aa0a-e8379b121977">
 ## Progress Report
 - [X] Sound feature during the game
 - [X] Log in feature
 - [X] Saving feature
+
 - [X] Event demos
 - [X] Item Pool and Data features
 - [X] HP and Attack System in the game
